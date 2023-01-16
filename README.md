@@ -2,6 +2,7 @@
 warcholjakub.github.io
 
 https://github.com/warcholjakub/encodec
+https://paperswithcode.com/paper/high-fidelity-neural-audio-compression
 
 <!--
 **warcholjakub/warcholjakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

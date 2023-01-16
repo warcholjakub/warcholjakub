@@ -1,6 +1,8 @@
 ### Witam serdecznie wszystkich. (Tak naprawdę nie jestę szopełę.) 👋
 warcholjakub.github.io
 
+https://github.com/warcholjakub/encodec
+
 <!--
 **warcholjakub/warcholjakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

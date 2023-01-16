@@ -2,6 +2,7 @@
 warcholjakub.github.io
 
 https://github.com/warcholjakub/encodec
+
 https://paperswithcode.com/paper/high-fidelity-neural-audio-compression
 
 <!--

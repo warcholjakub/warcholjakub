@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/warcholjakub/warcholjakub/raw/warcholjakub/img/fan.gif" alt="Fan" align="center">
+<img src="images/fan.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/warcholjakub/warcholjakub/raw/warcholjakub/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="images/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">

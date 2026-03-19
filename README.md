@@ -10,5 +10,10 @@
 to my GitHub profile!
 </div>
 
-- [LinkedIn](https://www.linkedin.com/in/jakub-warchoł-2a6a26371/)
-- Email: warcholljakub@gmail.com
+---
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/jakub-warchoł-2a6a26371/) • warcholljakub@gmail.com
+
+</div>
